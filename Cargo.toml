@@ -1,0 +1,40 @@
+[package]
+name = "decentralized-ai-agents"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+path = "src/lib.rs"
+
+[[bin]]
+name = "decentralized-ai-agents"
+path = "src/main.rs"
+
+[dependencies]
+tokio = { version = "1.0", features = ["full"] }
+libp2p = { version = "0.53", features = [
+    "tcp",
+    "noise",
+    "yamux",
+    "gossipsub",
+    "mdns",
+    "macros",
+    "tokio"
+]}
+chrono = "0.4"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+tracing-appender = "0.2"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tonic = "0.10"
+prost = "0.12"
+tokio-stream = "0.1"
+uuid = { version = "1.4", features = ["v4"] }
+futures-util = "0.3"
+parking_lot = "0.12"
+tonic-reflection = "0.10.0"
+
+[build-dependencies]
+tonic-build = { version = "0.10", features = ["prost"] }
+tonic = { version = "0.10", features = ["transport"] }

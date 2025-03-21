@@ -1,0 +1,19 @@
+services:
+  echo-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        TARGETPLATFORM: linux/arm64
+    ports:
+      - "8080:8080"      # HTTP API
+      - "35007:35007"    # P2P communication
+      - "56109:56109"    # Additional P2P port
+    init: true
+    network_mode: bridge
+    restart: unless-stopped
+    environment:
+      - SECURE_MODE=true
+      - RUST_LOG=info
+    volumes:
+      - ./secure-config:/app/config:ro

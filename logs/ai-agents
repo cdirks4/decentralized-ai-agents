@@ -1,0 +1,240 @@
+  2025-03-20T20:38:33.108619Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(9)
+
+  2025-03-20T20:41:22.137125Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(9)
+
+  2025-03-20T20:43:53.827456Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(9)
+
+  2025-03-20T20:48:09.724927Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T20:48:31.872668Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(9)
+
+  2025-03-20T20:51:03.581163Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T20:51:20.784606Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(9)
+
+  2025-03-20T20:51:54.701891Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(9)
+
+  2025-03-20T20:52:32.345618Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T20:53:30.604371Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(9)
+
+  2025-03-20T20:54:50.543445Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(9)
+
+  2025-03-20T20:56:18.844701Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(9)
+
+  2025-03-20T20:57:48.779708Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T20:58:47.187820Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T21:01:29.304806Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(9)
+
+  2025-03-20T21:04:20.374032Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(9)
+
+  2025-03-20T21:04:35.001014Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(9)
+
+  2025-03-20T21:04:56.216519Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T21:05:01.334147Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T21:56:35.026153Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T22:21:10.630987Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T22:25:31.633022Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T22:31:22.115892Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T22:32:10.938235Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T22:32:27.092350Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T22:34:44.249687Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T22:35:20.780168Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T22:37:10.369740Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T22:37:55.537759Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T22:39:03.340979Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T22:39:40.443971Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T22:40:36.955339Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T22:42:01.079191Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T22:42:20.192475Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T22:42:57.163764Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T22:56:04.014504Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T22:56:33.929500Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T22:56:50.882699Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T22:58:44.223038Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T22:59:02.464660Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T22:59:35.901666Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T23:00:43.311422Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T23:00:54.931191Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T23:01:36.451507Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T23:03:14.572239Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T23:03:43.845710Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T23:04:40.301483Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T23:05:03.903830Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T23:05:26.412837Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T23:06:55.672617Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T23:08:00.374351Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T23:15:24.535258Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T23:16:36.420686Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T23:19:44.404652Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T23:20:53.070142Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T23:21:52.356821Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T23:24:34.077428Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T23:26:24.148225Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T23:27:50.812381Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T23:29:26.827402Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T23:35:21.802145Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T23:36:31.680287Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T23:41:05.069254Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T23:42:24.576875Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-20T23:46:25.859460Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-20T23:57:36.562210Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-21T00:01:58.653660Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-21T00:05:22.804872Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-21T00:07:35.795191Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-21T00:43:49.532811Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-21T00:46:03.128175Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-21T00:52:51.156628Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-21T00:55:04.515274Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-21T01:20:47.149294Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-21T01:27:08.036560Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-21T02:29:42.669721Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-21T03:07:38.972228Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-21T07:28:35.392427Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(11)
+
+  2025-03-21T15:35:11.912524Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+
+  2025-03-21T15:51:04.146507Z ERROR libp2p_mdns::behaviour::iface: error sending packet on iface address No route to host (os error 65), address: 172.16.0.2
+    at /Users/connordirks/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-mdns-0.45.1/src/behaviour/iface.rs:235 on ThreadId(3)
+

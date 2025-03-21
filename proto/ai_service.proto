@@ -1,0 +1,32 @@
+syntax = "proto3";
+package ai_service;
+
+service AiService {
+    rpc ProcessMessage (AiRequest) returns (AiResponse);
+    rpc StreamEvents (StreamRequest) returns (stream AiEvent);
+}
+
+message AiRequest {
+    string request_id = 1;
+    string prompt = 2;
+    map<string, string> parameters = 3;
+    string agent_type = 4;
+}
+
+message AiResponse {
+    string request_id = 1;
+    string response = 2;
+    map<string, string> metadata = 3;
+    string status = 4;
+}
+
+message StreamRequest {
+    string agent_type = 1;
+    repeated string topics = 2;
+}
+
+message AiEvent {
+    string event_type = 1;
+    string payload = 2;
+    map<string, string> metadata = 3;
+}
